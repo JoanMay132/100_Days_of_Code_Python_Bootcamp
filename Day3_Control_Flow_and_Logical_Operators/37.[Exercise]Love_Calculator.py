@@ -1,11 +1,15 @@
 # 🚨 Don't change the code below 👇
-from numpy import concatenate
+
 
 
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
 name2 = input("What is their name? \n")
 # 🚨 Don't change the code above 👆
+'''
+Take both people's names and check for the number of times 
+the letters in the word TRUE occurs. Then check for the
+number of times the letters in the word LOVE occurs. Then combine these numbers to make a 2 digit number.'''
 
 #Write your code below this line 👇
 #Concatenate
@@ -31,4 +35,4 @@ if (love_score<10) or (love_score>90):
 elif (love_score>40) and (love_score<50):
     print(f"Your score is {love_score}, you are alright together.")
 else:
-    print(f"Your score is {love_score}.")
+    print(f"Ustedes son compatibles porque su puntaje es de: {love_score}.")

@@ -1,3 +1,5 @@
+
+
 print('''
 *******************************************************************************
           |                   |                  |                     |
@@ -44,10 +46,6 @@ elif choice1 == "left":
       print("Eaten by beasts. Game over.")
     else:
       print("Game over.")
-    
-    
-  
-  
     
 else:
   print("Fall into a hole Game over.")

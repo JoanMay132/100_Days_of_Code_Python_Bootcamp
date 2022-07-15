@@ -14,7 +14,7 @@ elif size=="M":
     bill=20
 elif size=="L":
     bill=25
-if add_pepperoni=="Y": #I add an if for store if we want to add pepperoni
+if add_pepperoni=="Y": #I add an if for store if we want to add pepperoni   
     if size=="S":
         bill+=2
     else:
