@@ -1,4 +1,5 @@
 import art 
+import os
 print(art.logo)
 should_continue=True
 data_values={}
@@ -20,6 +21,8 @@ while should_continue:
     asking=input("Are there other users who want to bid? Type 'yes' or 'no' ")
     if asking=='yes':
         should_continue
+        os.system('CLS')
+        
 
     elif asking=='no':
         should_continue=False

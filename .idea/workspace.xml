@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2c0b6a0-1ad0-4a14-9815-edeebcad55ae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Day2_Understanding_Data_Types/20_Type_Error_Checking&amp;Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_Understanding_Data_Types/20_Type_Error_Checking&amp;Conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2_Understanding_Data_Types/24.Number_Manipulations&amp;F_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_Understanding_Data_Types/24.Number_Manipulations&amp;F_Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/29.else_&amp;_Conditonal_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/29.else_&amp;_Conditonal_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/30.[Exercise]Odd_or_Even.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/30.[Exercise]Odd_or_Even.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/31.Nested_if_statements_&amp;_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/31.Nested_if_statements_&amp;_elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/33. [Exercise]_Leap_Year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/33. [Exercise]_Leap_Year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/34.Multiple_If_Statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/34.Multiple_If_Statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/35.[Exercise]Pizza_Order_Practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/35.[Exercise]Pizza_Order_Practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/37.[Exercise]Love_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/37.[Exercise]Love_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/38.Day3_Project_Treasure_Island.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/38.Day3_Project_Treasure_Island.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/11. The_Python_Input_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/11. The_Python_Input_Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/12.Input_Functions[Exercise].py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/12.Input_Functions[Exercise].py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/14. Variables[Exercise].py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/14. Variables[Exercise].py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C5wZ7612ipTO53Ljlng55rQAMc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.43_Exercise_Banker_Roulette (1)">
+    <configuration name="43.Banker_Roulette_Exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_4_Randomisation and Python Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4_Randomisation and Python Lists/43.Banker_Roulette_Exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="43_Exercise_Banker_Roulette (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_4_Randomisation and Python Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_4_Randomisation and Python Lists/43_Exercise_Banker_Roulette.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="43_Exercise_Banker_Roulette" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_4_Randomisation and Python Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\cjmd1\OneDrive - Universidad Autonoma del Carmen\UNACAR Joan May no entrar al menos que sea yo\Programación\100 Days of Code - The Complete Python Pro Bootcamp For 2022\python_exercises\Day_4_Randomisation and Python Lists\43_Exercise_Banker_Roulette.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="43_Exercise_Banker_Roulette" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_4_Randomisation and Python Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\cjmd1\OneDrive - Universidad Autonoma del Carmen\UNACAR Joan May no entrar al menos que sea yo\Programación\100 Days of Code - The Complete Python Pro Bootcamp For 2022\python_exercises\Day_4_Randomisation and Python Lists\43_Exercise_Banker_Roulette.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.43_Exercise_Banker_Roulette (1)" />
+        <item itemvalue="Python.43_Exercise_Banker_Roulette" />
+        <item itemvalue="Python.43_Exercise_Banker_Roulette" />
+        <item itemvalue="Python.43.Banker_Roulette_Exercise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2c0b6a0-1ad0-4a14-9815-edeebcad55ae" name="Changes" comment="" />
+      <created>1658105824216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658105824216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
