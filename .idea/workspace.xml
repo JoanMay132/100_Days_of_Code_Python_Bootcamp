@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2c0b6a0-1ad0-4a14-9815-edeebcad55ae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day2_Understanding_Data_Types/20_Type_Error_Checking&amp;Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_Understanding_Data_Types/20_Type_Error_Checking&amp;Conversion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2_Understanding_Data_Types/24.Number_Manipulations&amp;F_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_Understanding_Data_Types/24.Number_Manipulations&amp;F_Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/29.else_&amp;_Conditonal_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/29.else_&amp;_Conditonal_Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/30.[Exercise]Odd_or_Even.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/30.[Exercise]Odd_or_Even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/31.Nested_if_statements_&amp;_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/31.Nested_if_statements_&amp;_elif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/33. [Exercise]_Leap_Year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/33. [Exercise]_Leap_Year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/34.Multiple_If_Statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/34.Multiple_If_Statements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/35.[Exercise]Pizza_Order_Practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/35.[Exercise]Pizza_Order_Practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/37.[Exercise]Love_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/37.[Exercise]Love_Calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/38.Day3_Project_Treasure_Island.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_Control_Flow_and_Logical_Operators/38.Day3_Project_Treasure_Island.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/11. The_Python_Input_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/11. The_Python_Input_Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/12.Input_Functions[Exercise].py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/12.Input_Functions[Exercise].py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/14. Variables[Exercise].py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_1_Working_with_Variables_in_Python/14. Variables[Exercise].py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +33,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
-  }
-}]]></component>
-  <component name="RunManager" selected="Python.43_Exercise_Banker_Roulette (1)">
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.main">
     <configuration name="43.Banker_Roulette_Exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,8 +122,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day17_The_Quiz_Project_&amp;_Benefits_With_OOP/quiz-game-start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day17_The_Quiz_Project_&amp;_Benefits_With_OOP/quiz-game-start/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.43_Exercise_Banker_Roulette (1)" />
         <item itemvalue="Python.43_Exercise_Banker_Roulette" />
         <item itemvalue="Python.43_Exercise_Banker_Roulette" />
@@ -166,5 +174,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
