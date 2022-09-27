@@ -14,7 +14,7 @@ for steps in range(200):
     mini_turtle.pensize(10)
     mini_turtle.speed("fastest")
     mini_turtle.forward(30)
-    mini_turtle.setheading(random.choice(angle_list))
+    mini_turtle.setheading(random.choice(angle_list)) #Chose a random direction from angle list
 
 screen=Screen()
 screen.exitonclick()

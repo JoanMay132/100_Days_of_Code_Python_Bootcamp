@@ -1,2 +1,2 @@
 import heroes 
-print(heroes.gen())
+print(heroes.gen()) #Using heroes module

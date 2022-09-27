@@ -1,4 +1,6 @@
 
+
+'''Draw a painting with dots'''
 from turtle import Turtle, Screen
 import random
 timmy=Turtle()
@@ -19,7 +21,7 @@ number_of_dots=100
 for dot_count in range(1,number_of_dots+1):
     timmy.dot(20, random.choice(color_list))
     timmy.forward(50)
-    if dot_count%10==0:
+    if dot_count%10==0: 
         timmy.setheading(90)
         timmy.forward(50)
         timmy.setheading(180)
